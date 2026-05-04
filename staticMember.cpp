@@ -19,3 +19,5 @@ class Mahasiswa { //membuat class mahasiswa
     }
 };
 
+//memberi value ke variabel nim dari class mahasiswa
+int Mahasiswa::nim = 10;
